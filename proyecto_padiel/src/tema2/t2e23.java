@@ -1,5 +1,7 @@
 package tema2;
-
+/*Lee por teclado varios números enteros positivos hasta recibir un
+número negativo. El programa mostrará la media de los números (sin
+tener en cuenta el negativo).*/
 import java.util.Scanner;
 
 public class t2e23 {
